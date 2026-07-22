@@ -23,9 +23,9 @@ The framework includes:
 ---
 ## Architecture
 
-The detailed architecture is available here:
+The detailed system architecture and data processing pipeline are described in:
 
-[View Architecture Documentation](architecture.md)
+[Architecture Documentation](architecture.md)
 
 # Validation Status
 

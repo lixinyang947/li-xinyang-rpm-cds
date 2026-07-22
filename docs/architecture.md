@@ -1,25 +1,41 @@
 ## Architecture Workflow
 
-The RPM-CDS framework follows the following data processing pipeline:
-[Wearables / Home BP / CGM / EHR Labs]
-            |
-            v
-[FHIR Observation Normalization]
-            |
-            v
-[Physiological Feature Engineering]
-            |
-            v
-[XGBoost Risk Model]
-            |
-            v
-[SHAP Explanation Generation]
-            |
-            v
-[FHIR DiagnosticReport]
-            |
-            v
-[Clinical Decision Support Workflow]
+The RPM-CDS framework follows the following data processing pipeline.
+
+```text
++--------------------------------+
+| Wearables / Home BP / CGM / EHR |
++--------------------------------+
+                |
+                v
++--------------------------------+
+| FHIR Observation Normalization |
++--------------------------------+
+                |
+                v
++--------------------------------+
+| Physiological Feature Engineering |
++--------------------------------+
+                |
+                v
++--------------------------------+
+| XGBoost Risk Model             |
++--------------------------------+
+                |
+                v
++--------------------------------+
+| SHAP Explanation Generation    |
++--------------------------------+
+                |
+                v
++--------------------------------+
+| FHIR DiagnosticReport          |
++--------------------------------+
+                |
+                v
++--------------------------------+
+| Clinical Decision Support      |
++--------------------------------+
 
 ---
 

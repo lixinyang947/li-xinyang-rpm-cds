@@ -57,12 +57,14 @@ Validation pathway:
 Xinyang Li
 ---
 
+---
+
 ## Technical Artifacts
 
 The repository provides the following technical artifacts:
 
-- [RPM 80-Feature Dictionary](../feature_dictionary/RPM_80_Feature_Dictionary_v0.9.csv)
+- [RPM 80-Feature Dictionary](https://github.com/lixinyang947/li-xinyang-rpm-cds/blob/main/feature_dictionary/RPM_80_Feature_Dictionary_v0.9.csv)
 
-- [SHAP to FHIR DiagnosticReport Framework](../explainability/SHAP_to_FHIR_DiagnosticReport.md)
+- [SHAP to FHIR DiagnosticReport Framework](https://github.com/lixinyang947/li-xinyang-rpm-cds/blob/main/explainability/SHAP_to_FHIR_DiagnosticReport.md)
 
-- [Validation Benchmark Protocol](../validation/benchmark_protocol.md)
+- [Validation Benchmark Protocol](https://github.com/lixinyang947/li-xinyang-rpm-cds/blob/main/validation/benchmark_protocol.md)

@@ -21,22 +21,11 @@ The framework includes:
 - Context-aware CDS workflow
 
 ---
+## Architecture
 
-# Architecture
-    |
-    v
-    |
-    v
-    |
-    v
-    |
-    v
-    |
-    v
-    |
-    v
-    
----
+The detailed architecture is available here:
+
+[View Architecture Documentation](architecture.md)
 
 # Validation Status
 

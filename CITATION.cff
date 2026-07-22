@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+type: software
+
+title: "Explainable Risk-Stratification and Clinical Decision-Support Framework for Remote Patient Monitoring"
+
+authors:
+  - family-names: "Li"
+    given-names: "Xinyang"
+
+version: "0.1.0"
+
+date-released: "2026-07-21"
+
+repository-code: "https://github.com/lixinyang947/li-xinyang-rpm-cds"
+
+url: "https://github.com/lixinyang947/li-xinyang-rpm-cds"
+
+abstract: >
+  This repository presents an explainable risk-stratification and
+  clinical decision-support framework for remote patient monitoring.
+  The framework integrates HL7 FHIR R4 normalization,
+  physiological feature engineering, machine-learning risk prediction,
+  explainable AI, and clinical workflow integration.
+
+keywords:
+  - RPM
+  - Remote Patient Monitoring
+  - Clinical Decision Support
+  - FHIR
+  - FHIR R4
+  - Machine Learning
+  - Explainable AI
+  - Healthcare Informatics
+
+license: "Apache-2.0"
